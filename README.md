@@ -20,6 +20,10 @@ Before you begin, ensure you have met the following requirements:
 - npm (v6 or later)
 - MongoDB Atlas account (for database)
 
+## Demo
+![image](https://github.com/user-attachments/assets/03c7e96a-6aa8-4862-ae9a-b626e25dc1f6)
+
+
 ## Installation
 
 1. Clone the repository:
